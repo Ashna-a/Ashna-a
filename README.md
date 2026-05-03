@@ -53,6 +53,6 @@ In the past, I’ve led frontend efforts for platforms with 1M+ users, mentored 
 - 💬 Open to Senior / Lead Frontend roles
 
 ## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/ashna-ashref-12b910106
+- LinkedIn: https://linkedin.com/in/ashna-ashref
 - Portfolio: https://ashna-ashref.vercel.app/
 
